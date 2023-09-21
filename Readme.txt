@@ -1,1 +1,1 @@
-This is a sample reposfaf
+This is a sample repository
